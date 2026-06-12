@@ -1,0 +1,32 @@
+Feature,Importance
+Tenure Months,0.15835050057543223
+Total Charges,0.15396971961373734
+Monthly Charges,0.13900602757521388
+CLTV,0.12361699619360993
+Internet Service_Fiber optic,0.0371142851104812
+Payment Method_Electronic check,0.034334872962103136
+Dependents_Yes,0.03249584805237851
+Contract_Two year,0.03202489174409475
+Gender_Male,0.023549343095969743
+Paperless Billing_Yes,0.022384089765896325
+Online Security_Yes,0.02165874502737817
+Partner_Yes,0.020599318761813548
+Tech Support_Yes,0.020374558271523374
+Contract_One year,0.01827322304255446
+Senior Citizen_Yes,0.01777029647697867
+Online Backup_Yes,0.01759958558690892
+Multiple Lines_Yes,0.0160153261106672
+Device Protection_Yes,0.015558713368837377
+Streaming Movies_Yes,0.014956924185716763
+Streaming TV_Yes,0.014524447196925241
+Payment Method_Credit card (automatic),0.011778633660834337
+Payment Method_Mailed check,0.010535201517926286
+Internet Service_No,0.007289098467790284
+Online Security_No internet service,0.006886375268774419
+Online Backup_No internet service,0.005226893925485751
+Streaming Movies_No internet service,0.005221197509041936
+Streaming TV_No internet service,0.005126792101979857
+Tech Support_No internet service,0.004050634342367041
+Phone Service_Yes,0.0037798914335995105
+Multiple Lines_No phone service,0.0037483529723124015
+Device Protection_No internet service,0.0021792160816672766
